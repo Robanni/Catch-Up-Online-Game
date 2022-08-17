@@ -198,6 +198,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
-  _attackImpuls: 10
+  _attackDistance: 8
+  _attackRadius: 2
   _damagePuase: 3
   _playerMaterial: {fileID: 2100000, guid: 1b73c5e3efe5bb04abf5569ac783dfa7, type: 2}
